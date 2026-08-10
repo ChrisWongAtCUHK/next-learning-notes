@@ -11,3 +11,4 @@ npx create-next-app@latest
 ```
 npx create-next-app@latest routing-demo
 ```
+- [Next.js 15 Tutorial - 6 - Nested Routes](https://www.youtube.com/watch?v=H7JjKjkC33c&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=6)
