@@ -13,3 +13,4 @@ npx create-next-app@latest routing-demo
 ```
 - [Next.js 15 Tutorial - 6 - Nested Routes](https://www.youtube.com/watch?v=H7JjKjkC33c&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=6)
 - [Next.js 15 Tutorial - 7 - Dynamic Routes](https://www.youtube.com/watch?v=k9g6aVLH3p4&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=7)
+- [Next.js 15 Tutorial - 8 - Nested Dynamic Routes](https://www.youtube.com/watch?v=edrJf0GKfAI&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=9)
